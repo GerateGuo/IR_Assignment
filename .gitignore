@@ -10,3 +10,4 @@ results/beir/bge/run.txt
 results/beir/bm25/run.txt
 results/beir/colbert/run.optimized.txt
 results/msmarco/bge/run.txt
+results/beir/*spladev3.txt
