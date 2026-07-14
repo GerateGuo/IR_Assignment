@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+__pycache__/
+.env
+.venv/
+# 结果文件（可在本地用代码重现）
+results/beir/quora/*.txt
+results/beir/nfcorpus/*.txt
+results/beir/bge/run.txt
+results/beir/bm25/run.txt
+results/beir/colbert/run.optimized.txt
+results/msmarco/bge/run.txt
